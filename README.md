@@ -1,6 +1,9 @@
 # Storefront Widgets
 [WooCommerce](https://woocommerce.com) plugin for the [Storefront](https://wordpress.org/themes/storefront/) theme that creates various sidebar areas for plugging in content.
 
+## Why?
+[Storefront](https://wordpress.org/themes/storefront/) lacks widgets for various customization abilities. This plugin just adds things you'd expect to see in [Storefront](https://wordpress.org/themes/storefront/) out of the box.
+
 ## Contents
 
 The Storefront Widgets plugin includes the following files:
