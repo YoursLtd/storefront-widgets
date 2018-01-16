@@ -1,5 +1,5 @@
 # Storefront Widgets
-Woocommerce plugin for the [Storefront](https://wordpress.org/themes/storefront/) theme that creates various sidebar areas for plugging in content.
+[WooCommerce](https://woocommerce.com) plugin for the [Storefront](https://wordpress.org/themes/storefront/) theme that creates various sidebar areas for plugging in content.
 
 ## Contents
 
@@ -12,7 +12,7 @@ The Storefront Widgets plugin includes the following files:
 * Creation of various sidebar areas for plugging in content to the [Storefront](https://wordpress.org/themes/storefront/) theme.
 
 ## Installation
-The Storefront Widgets plugin contents should be put in the [Wordpress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `storefront-widgets`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
+The Storefront Widgets plugin contents should be put in the [WordPress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `storefront-widgets`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
 
 ## Removal
 To disable and remove the Storefront Widgets plugin, simply follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Uninstalling_Plugins), and then delete the `storefront-widgets` directory and all of it's contents.
