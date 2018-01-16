@@ -15,7 +15,7 @@ The Storefront Widgets plugin includes the following files:
 The Storefront Widgets plugin contents should be put in the [WordPress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `storefront-widgets`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
 
 ## Removal
-To disable and remove the Storefront Widgets plugin, simply follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Uninstalling_Plugins), and then delete the `storefront-widgets` directory and all of it's contents.
+To disable and remove the Storefront Widgets plugin, simply follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Uninstalling_Plugins), and then delete the `storefront-widgets` directory and all of its contents.
 
 ## License
 Please review the [LICENSE](LICENSE) file located in the repo.
