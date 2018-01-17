@@ -37,4 +37,4 @@ The Storefront Widgets plugin was written by Anthony Iacono.
 For commercial support and consultation, please visit our website [http://yoursltd.com](http://yoursltd.com). Check out all our other amazing products on [http://www.jointbyte.com/](http://www.jointbyte.com/)
 
 ## Copyright
-Copyright &copy; 2018 Yours Ltd.
+Copyright &copy; 2018 yours! Ltd
