@@ -1,7 +1,9 @@
 <?php
 /*
 Plugin Name: Storefront Widgets
+Plugin URI: https://github.com/YoursLtd/storefront-widgets
 Author: JointByte - Anthony Iacono
+Author URI: http://yoursltd.com
 Version: 1.0
 Text Domain: storefront-widgets
 */
