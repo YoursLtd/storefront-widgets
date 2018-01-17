@@ -37,7 +37,9 @@ Please review the [LICENSE](LICENSE) file located in the repo.
 The Storefront Widgets plugin was written by Anthony Iacono.
 
 ## Support
-For commercial support and consultation, please visit our website [http://yoursltd.com](http://yoursltd.com). Check out all our other amazing products on [http://www.jointbyte.com/](http://www.jointbyte.com/)
+[Join our Discord server](https://discord.gg/wkMbsn7) to access our community-based support. For commercial support and consultation, please visit our website [http://yoursltd.com](http://yoursltd.com). Check out all our other amazing products on [http://www.jointbyte.com/](http://www.jointbyte.com/)
 
 ## Copyright
 Copyright &copy; 2018 yours! Ltd
+
+[![forthebadge](http://forthebadge.com/images/badges/certified-steve-bruhle.svg)](http://forthebadge.com)
